@@ -78,7 +78,7 @@ I don't just build software — I **design, secure, and automate entire digital 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=220&section=header&text=FARZEEN%20ALI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20The%20Techzeen%20%E2%80%A2%20DevSecOps%20Architect%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=220&section=header&text=Alok%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20The%20Techzeen%20%E2%80%A2%20DevSecOps%20Architect%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
 
 </div>
 
@@ -96,7 +96,7 @@ I don't just build software — I **design, secure, and automate entire digital 
 <!-- 💀 Premium Glass Stats -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=farzeen-ali&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alok2307&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7e15f7&ring=7e15f7&fire=ffffff&currStreakLabel=7e15f7"/>
 
 </div>
 
