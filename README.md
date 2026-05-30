@@ -1,19 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hey+There!+👋+I'm+Alok+Kumar;Founder+%40+The+Techzeen+🎥;DevSecOps+%2B+Cyber+Security+🔒;Full-Stack+%2B+Mobile+Architect+💻;AI+Automation+Engineer+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hey+There!+👋+I'm+Alok+Kumar;DevOps+Linux+System+Administrator;Automation+Engineer+🤖" />
 </h1>
-
-
-
-<br/>
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-746786197/)
-  [![Gmail](https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumaralokbkgmail.com)
-
-</div>
-
-<br/>
 
 ---
 
@@ -21,68 +8,37 @@
 
 > *"Most startups hire 4–5 specialists for what I do in one."*
 
-I'm **Alok Kumar** —  I bridge the gap between academic theory and real-world industry execution.
-
-I don't just build software — I **design, secure, and automate entire digital ecosystems** from frontend to cloud to AI, focused on scalability, security, and business impact.
-
-🎓 Also serving as **Program Manager & Faculty @ Denning** — mentoring students from the **University of London** & **University of Greenwich** to become industry-ready engineers.
-
----
-
-## 🧩 What I Do
-
-| Domain | What I Bring |
-|---|---|
-| 💻 **Full-Stack** | Production-grade web & cross-platform apps — Next.js, React Native, NestJS, and beyond |
-| ⚙️ **DevSecOps & Cloud** | Security-first infra on AWS — CI/CD, containers, zero-trust, IaC |
+I'm **Alok Kumar** —  I'm a Linux & AIX System Administrator with over 4+ year experience in server administration, troubleshooting, user
+management, LVM, patching, backup & recovery, and automation using Bash scripting and Ansible. Hands-on exposure
+to IBM Power Systems, LPARs, VIOS, AIX administration, and Linux environments (RHEL, CentOS). Basic knowledge of
+AWS Cloud services, including EC2, S3, IAM, VPC, and CloudWatch. Strong understanding of incident management,
+change management, server hardening, and system performance monitoring.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alokkumar6037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaralokbk@gmail.com) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alok2307&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alok2307&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alok2307&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-`React.js` `Next.js 16` `Nuxt.js` `Angular 19` `React Native (CLI & Expo)` `TypeScript` `Tailwind CSS`
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alok2307&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-`Node.js` `Express` `NestJS` `GraphQL` `REST APIs` `Prisma ORM`
-
-
-`PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `Appwrite` `Firebase`
-
-
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `Terraform` `Ansible` `Jenkins` `GitHub Actions` `GitLab CI/CD`
-
-`SonarQube` `HashiCorp Vault` `GitLeaks` `Kyverno` `DefectDojo` `Syft` `Grype` `Trivy`
-
-
-`Kali Linux` `Parrot OS` `Wireshark` `Nmap` `Metasploit` `Burp Suite` `Nessus` `Nikto`  
-`Hydra` `Hashcat` `John the Ripper` `Ghidra` `Autopsy`  
-`Splunk` `Wazuh` `QRadar` `Zero Trust Architecture` `SIEM / SOC Operations`
-
-#### 🤖 AI & Automation
-`LLM Integration` `AI Agents` `Workflow Automation` `DevOps AI Pipelines` `RAG Systems`
-
-#### 📊 Monitoring & Observability
-
-`ELK Stack` `Grafana` `Prometheus` `Cloud Custodian`
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=alok2307&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=alok2307&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-
-
-<br/>
-
-<!-- 🔥 ELITE ENGINEERING COMMAND CENTER -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7e15f7,100:0d1117&height=220&section=header&text=Alok%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20The%20Techzeen%20%E2%80%A2%20DevSecOps%20Architect%20%E2%80%A2%20Full-Stack%20Engineer&descAlignY=58&descAlign=50"/>
-
-</div>
-
-<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- ⚡ Animated AI Matrix -->
 <div align="center">
@@ -118,8 +74,6 @@ I don't just build software — I **design, secure, and automate entire digital 
 <img src="https://img.shields.io/badge/Cyber%20Security-111111?style=for-the-badge&logo=hackthebox&logoColor=7e15f7"/>
 <img src="https://img.shields.io/badge/AI%20Engineer-7e15f7?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20Architect-111111?style=for-the-badge&logo=amazonaws&logoColor=7e15f7"/>
-<img src="https://img.shields.io/badge/FullStack%20Engineer-7e15f7?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobile%20Apps-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </div>
 
@@ -148,7 +102,3 @@ If you're a **founder or startup** who needs a technical co-pilot — not just a
 - 🛡️ Cybersecurity audits & pentesting
 - 🤝 Technical collaborations & strategic partnerships
 
-
-<p align="center">
-  <i>"1000+ days. Zero days off. One mission — make complex tech actually build things."</i>
-</p>
